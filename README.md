@@ -14,7 +14,9 @@ A simple and fun Tic Tac Toe game using HTML, CSS & JavaScript.
 
 ##  Author
 Md. Kaised Mollick  
+
 Student , Green University Of Bangladesh
+
 Email : a.r.kaised.7698@gmail.com
 
 ##  License
