@@ -1,6 +1,6 @@
 ## Tic Tac Toe Game
 
-A simple and fun Tic Tac Toe game using HTML, CSS, and JavaScript.
+A simple and fun Tic Tac Toe game using HTML, CSS & JavaScript.
 
 ## Features
 - 2-player game (Same Device)
