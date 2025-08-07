@@ -8,7 +8,7 @@ This is a simple **Tic Tac Toe** game built with **HTML, CSS & JavaScript**. Any
 ## Features
 - Two player game in same device(X and O)
 - Shows winning message
-- Start New Game / Reset button
+- Start New Game / Reset Button
 - Color difference for X and O
 - Winner message clears on new game
 
