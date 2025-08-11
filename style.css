@@ -1,13 +1,19 @@
 *{
     margin: 0;
     padding:0;
-
 }
 
 body{
     background-color: #8EA4D2;
     text-align: center;
 }
+
+#welcomeMsg{
+    color: #802392;
+    justify-content: center;
+    font-size: 10vmin;
+}
+
 
 .container{
     height: 70vh;
@@ -18,7 +24,9 @@ body{
 }
 
 .name{
-    color: #5B3000;
+    color: #3B060A;
+    font-size: 10vmin;
+
    
 }
 
@@ -56,4 +64,29 @@ body{
 
 .author{
     color: #272727;
+}
+#newGameButton{
+    padding: 1rem;
+    font-size:2rem ;
+    background-color: #6b6b0a;
+    color: aliceblue;
+    border-radius: 1.5rem;
+    border: none;
+}
+#msg{
+   color: rgb(109, 79, 4); 
+   font-size: 10vmin;
+}
+
+.msgcontainer{
+    height: 80vmin;
+     display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 4rem;
+};
+
+.hide{
+    display: none;
 }
